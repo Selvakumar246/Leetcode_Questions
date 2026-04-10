@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1929-concatenation-of-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1603-design-parking-system) |
+| [1929-concatenation-of-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
