@@ -193,17 +193,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
