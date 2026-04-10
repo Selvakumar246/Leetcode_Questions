@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
