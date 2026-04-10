@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Stack
 |  |
 | ------- |
