@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
