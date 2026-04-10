@@ -192,15 +192,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
