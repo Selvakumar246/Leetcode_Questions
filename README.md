@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0045-jump-game-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
