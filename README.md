@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Merge Sort
 |  |
 | ------- |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
