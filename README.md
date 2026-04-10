@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
