@@ -33,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0039-combination-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
