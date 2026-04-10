@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
