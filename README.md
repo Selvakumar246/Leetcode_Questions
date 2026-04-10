@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0066-plus-one) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
