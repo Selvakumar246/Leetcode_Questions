@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -223,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0743-network-delay-time) |
+| [0912-sort-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -264,4 +268,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0785-is-graph-bipartite) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
