@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2427-number-of-common-factors) |
 ## Stack
 |  |
 | ------- |
@@ -211,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2427-number-of-common-factors) |
 ## Recursion
 |  |
 | ------- |
