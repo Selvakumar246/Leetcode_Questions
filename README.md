@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0055-jump-game) |
 ## Matrix
 |  |
 | ------- |
