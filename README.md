@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Array
 |  |
 | ------- |
