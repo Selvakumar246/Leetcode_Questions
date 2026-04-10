@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0045-jump-game-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0217-contains-duplicate) |
