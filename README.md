@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
