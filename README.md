@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,8 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
