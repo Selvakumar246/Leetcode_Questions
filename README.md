@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0322-coin-change) |
 ## Graph Theory
 |  |
 | ------- |
