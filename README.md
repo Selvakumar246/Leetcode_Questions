@@ -5,9 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
