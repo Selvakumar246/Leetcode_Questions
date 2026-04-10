@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
