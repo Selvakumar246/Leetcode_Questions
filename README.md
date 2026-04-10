@@ -87,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
