@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 ## Linked List
 |  |
 | ------- |
