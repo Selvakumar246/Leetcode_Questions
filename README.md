@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
