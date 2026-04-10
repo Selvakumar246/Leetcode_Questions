@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
