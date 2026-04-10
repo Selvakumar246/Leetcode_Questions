@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Linked List
 |  |
 | ------- |
