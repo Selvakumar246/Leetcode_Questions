@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
