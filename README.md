@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/1572-matrix-diagonal-sum) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Memoization
 |  |
 | ------- |
