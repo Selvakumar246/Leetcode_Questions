@@ -226,4 +226,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
