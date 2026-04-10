@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0067-add-binary) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Selvakumar246/Leetcode_Questions/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
